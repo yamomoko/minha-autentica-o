@@ -1,2 +1,2 @@
-# minha-autentica-o
-Reposit[orio de autenticação
+# minha-autentição
+Repositório de autenticação
